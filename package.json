@@ -1,0 +1,16 @@
+{
+  "name": "cypress-automation-task",
+  "version": "1.0.0",
+  "description": "A Cypress automation task project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test:headless": "cypress run"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "cypress": "^14.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
